@@ -1,6 +1,6 @@
 import React from 'react';
 import PortfolioContainer from './components/PortfolioContainer';
-import Forest from './assets/images/Forest.jpg';
+import Forest from './assets/images/forest3.jpg';
 import Footer from './components/Footer';
 
 const styles = {
@@ -11,7 +11,6 @@ const styles = {
     backgroundImage: `url(${Forest})`,
     backgroundPosition: 'center',
     backgroundSize: 'cover',
-    // backgroundRepeat: 'repeat-y',
     backgroundAttachment: 'fixed',
     width: '80vw',
     minHeight: '150vh',
