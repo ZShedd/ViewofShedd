@@ -38,6 +38,8 @@ export default function About() {
             <p>Tech Enthusiast</p>
             <p>Dog Lover</p>
             <p>Adventurer</p>
+            <p>Thank you for stopping by my Portfolio. <br></br>
+            Why don't you kick up your feet and stay a while.</p>
           </div>
         </section>
       </div>
