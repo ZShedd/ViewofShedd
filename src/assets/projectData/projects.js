@@ -39,7 +39,7 @@ export const projects = [
     subtitle: 'JavaScript',
     description: 'Solo Tech Blog',
     image: Techblog,
-    link: 'https://tech-blogger-1.herokuapp.com/',
+    link: 'https://nameless-scrubland-92534.herokuapp.com/',
   },
   {
     title: 'Dewey Decimal',
