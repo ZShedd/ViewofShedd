@@ -2,7 +2,7 @@ import React from 'react';
 
 const styles = {
   footer: {
-    position: 'absolute',
+    position: 'bottom',
     bottom: '0px',
     display: 'block',
     width: '100%',
@@ -35,7 +35,7 @@ function Footer() {
           <p>LinkedIn</p>
         </a>
         <a
-          href="https://stackoverflow.com/users/21414147/zshedd"
+          href="https://stackoverflow.com/users/21667483/zachary-shedd"
           style={styles.a}
         >
           <p>Stack Overflow</p>
