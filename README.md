@@ -44,7 +44,7 @@ GitHub Url:
 https://github.com/ZShedd
 
 GH-Pages:
-
+https://zshedd.github.io/ViewofShedd/
 
 Heroku URL: 
 https://viewofshedd.herokuapp.com/#about
