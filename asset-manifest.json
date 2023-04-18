@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/ViewofShedd/static/css/main.c2cab247.css",
-    "main.js": "/ViewofShedd/static/js/main.225620e3.js",
+    "main.js": "/ViewofShedd/static/js/main.29c21612.js",
     "static/media/forest3.jpg": "/ViewofShedd/static/media/forest3.472276eff1b5c3b5ec0c.jpg",
     "static/media/Moi.jpg": "/ViewofShedd/static/media/Moi.d06789abc651a24d88ee.jpg",
     "static/media/Weatherboi.png": "/ViewofShedd/static/media/Weatherboi.884fbde5a56bfbaaa595.png",
+    "static/media/Wagstoriches.png": "/ViewofShedd/static/media/Wagstoriches.b8639d2bc0f3e1b423d9.png",
     "static/media/Bookfinder.png": "/ViewofShedd/static/media/Bookfinder.e5906a235921cb000df0.png",
     "static/media/RiverRunner.jpeg": "/ViewofShedd/static/media/RiverRunner.c0f9fa1dd8cf93abc3cf.jpeg",
     "static/media/Techblog.png": "/ViewofShedd/static/media/Techblog.62b1a056617465671be5.png",
@@ -12,10 +13,10 @@
     "static/media/WorkdayScheduler.jpeg": "/ViewofShedd/static/media/WorkdayScheduler.928eb5c5a489fd1ddb3b.jpeg",
     "index.html": "/ViewofShedd/index.html",
     "main.c2cab247.css.map": "/ViewofShedd/static/css/main.c2cab247.css.map",
-    "main.225620e3.js.map": "/ViewofShedd/static/js/main.225620e3.js.map"
+    "main.29c21612.js.map": "/ViewofShedd/static/js/main.29c21612.js.map"
   },
   "entrypoints": [
     "static/css/main.c2cab247.css",
-    "static/js/main.225620e3.js"
+    "static/js/main.29c21612.js"
   ]
 }
