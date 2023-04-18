@@ -28,13 +28,13 @@ export const projects = [
     image: Weather,
     link: 'https://zshedd.github.io/Weather-Boi/',
   },
-  {
-    title: 'Workday Scheduler',
-    subtitle: 'JavaScript',
-    description: 'Solo Scheduler',
-    image: Workday,
-    link: 'https://zshedd.github.io/work-day-schedule/',
-  },
+  // {
+  //   title: 'Workday Scheduler',
+  //   subtitle: 'JavaScript',
+  //   description: 'Solo Scheduler',
+  //   image: Workday,
+  //   link: 'https://zshedd.github.io/work-day-schedule/',
+  // },
   {
     title: 'Tech Blog',
     subtitle: 'JavaScript',
