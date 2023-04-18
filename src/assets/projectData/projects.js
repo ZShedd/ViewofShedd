@@ -4,6 +4,7 @@ import Weather from '../images/Weatherboi.png';
 import Workday from '../images/WorkdayScheduler.jpeg';
 import Techblog from '../images/Techblog.png';
 import Bookfinder from '../images/Bookfinder.png';
+import Wags from '../images/Wagstoriches.png';
 
 export const projects = [
   {
@@ -47,5 +48,12 @@ export const projects = [
     description: 'Solo React App Book Finder',
     image: Bookfinder,
     link: 'https://zshedd.github.io/DeweyDecimal/',
+  },
+  {
+    title: 'Wags to Riches',
+    subtitle: 'JavaScript, React',
+    description: 'Group Pet Adoption Site',
+    image: Wags,
+    link: 'https://hidden-meadow-52736.herokuapp.com/',
   },
 ];
