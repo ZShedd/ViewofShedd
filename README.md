@@ -30,7 +30,7 @@ Peruse my portfolio to discover what I've been up to!
 
 ## Contributing
 
-nobody
+ZShedd
 
 ## Testing
 
